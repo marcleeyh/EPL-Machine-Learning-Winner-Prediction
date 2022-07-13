@@ -1,2 +1,6 @@
 # EPL-Machine-Learning-Winner-Prediction
-Using Machine Learning to predict results of matches in EPL
+
+1. Scraping the web for EPL results of the 20/21 & 21/22 seasons
+2. Using RandomForest Classifier to build a Machine Learning model that predicts the outcome of EPL matches
+3. Includes rolling averages of teams' performance as predictors
+4. Attained a precision of 67%
