@@ -4,4 +4,4 @@
 https://fbref.com/en/comps/9/Premier-League-Stats
 2. Using RandomForest Classifier to build a Machine Learning model that predicts the outcome of EPL matches
 3. Includes rolling averages of teams' performance as predictors
-4. Attained a precision of 67%
+4. Attained a precision of 62.5%
